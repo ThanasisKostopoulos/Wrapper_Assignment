@@ -19,11 +19,7 @@ import { FooterComponent } from 'src/app/footer/footer.component';
     CommonModule
   ],
   exports: [
-    WrapperComponent,
-    HeaderComponent,
-    NavComponent,
-    ContentComponent,
-    FooterComponent
+    WrapperComponent
   ]
 })
 export class WrapperModule { }
