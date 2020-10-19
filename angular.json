@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Wrapper-Assignment"
+    }
+  },
+  "defaultProject": "Wrapper-Assignment",
+  "cli": {
+    "analytics": "48c23865-e569-4b40-b5cb-53ff6df98566"
+  }
 }
